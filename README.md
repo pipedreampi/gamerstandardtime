@@ -11,5 +11,9 @@ http://www.gamerstandardtime.us
 3. Flask 0.12 - http://flask.pocoo.org/docs/0.12/installation/#installation
 4. VS Code - https://code.visualstudio.com/
 
+## License
+
+1. This project is licensed under the Apache License, Version 2.0. See [LICENSE](license.txt)  for the full license text.
+
 ## Thanks to
 Eugene Shumulinsky
